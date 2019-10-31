@@ -1,58 +1,58 @@
 # README
 
+# Hello CircuitPython
+### Objective
+Make an LED fade in and out on CircuitPython
+### Lesson
+We learned to use While True instead of using loops. This was also my first time using the Metro and CircuitPython so I got started learning some of it.  
+### Pictures
 # CircuitPython Servo
 ### Objective
 Make a servo move right or left depending on which wire is touched
 ### Lesson
-I learned how to do this assignment by using Capacitive touch on the metro
-### Pictures
-# Hello CircuitPython
-### Objective
-Make an LED fade in and out
-### Lesson
-We leanred to use While True instead of using loops
+I learned how to do this assignment by using Capacitive touch on the metro. I was not very familiar with coding servos, especially on CircuitPython so that was really helpful.
 ### Pictures
 # CicuitPython LCD
 ### Objective
 Use a button to make a variable go up and down on a LCD Screen
 ### Lesson
-Learned how to use the new code to make the LCD work
+Learned how to use the new code to make the LCD work. I Learned how useful the backback is for the LCD screen.
 ### Pictures
 # Photo Interrupters
 ### Objective
 Used a Photointerrupter to display the interruptions every four seconds.
 ### Lesson
-I learned how to make something register every four seconds which was a struggle
+I learned how to make something register every four seconds which was a struggle. 
 ### Pictures
 # Distance Sensor
 ### Objective
 We used a HC-SR04 to make the rgb LED change colors according to the distance of an object
 ### Lesson
-I learned how to change the colors and the code for different rgb colors
+I learned how to change the colors and the code for different rgb colors. I learned that the colors are just like in real life and you can add each of the three basic colors to make almost an color
 ### Pictures
 # Hello Git
 ### Objective
-We dowloaded the Git Bash app and learned how to make and edit a ReadME.md
+We dowloaded the Git Bash app and edited my ReadME.md
 ### Lesson
-I learned how to use Git Bash 
+I learned how to use Git Bash and how to edit my readME.md through the Git Bash app.
 ### Pictures
 # Hello GitHub
 ### Objective
 We created a repository to put all of our assignments in
 ### Lesson
-I learned a new way to edit my GitHub and organize my assignments
+I learned a new way to edit my GitHub. I also found it very useful when starting to organize my assignments.
 ### Pictures
 # Forks and Clones
 ### Objective
 We forked the CHS Sigma account and made a copy for our own account
 ### Lesson
-I learned how to get to other peoples repository
+I learned how to get to other peoples repository. I learned how to fork repositories from the class and clone them.
 ### Pictures
 # Classes, Objects, and Modules
 ### Objective
 Made a library for the rgb LED in one tab while we had another one named main.py
 ### Lesson
-I learned how to make librarys on CircuitPython
+I learned how to make libraries on CircuitPython.
 ### Pictures
 # Hello vs Code
 ### Objective
