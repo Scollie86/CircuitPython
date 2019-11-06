@@ -7,7 +7,7 @@ Make an LED fade in and out on CircuitPython.
 ### Lesson
 We learned to use While True instead of using loops. This was also my first time using the Metro and CircuitPython so I got started learning some of it.  
 ### Pictures
-[GitHub Hello](media/Hello.jpg)
+![GitHub Hello](media/Hello.jpg)
 # CircuitPython Servo
 ### Objective
 Make a servo move right or left depending on which wire is touched.
