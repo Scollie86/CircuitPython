@@ -18,7 +18,7 @@ I learned how to do this assignment by using Capacitive touch on the metro. It w
 ### Objective
 Use a button to make a variable go up and down on a LCD Screen.
 ### Lesson
-I Learned how to use the new code to make the LCD work while using a button and a switch. I Learned how useful the backback is for the LCD screen.
+I Learned how to use the new code to make the LCD work while using a button and a switch. I Learned how useful the backback is for the LCD screen. I learned the wiring for the LCD with the backpack.
 ### Pictures
 ![GitHub LCD Screen](media/LCD.PNG)
 # Photo Interrupters
