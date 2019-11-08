@@ -61,7 +61,7 @@ I learned how to make libraries on CircuitPython which is very useful to minimiz
 ### Objective
 We learned how to print something in the serial monitor of vs code.
 ### Lesson
-I learned how to use vs code when printing code and using it to push and commit something into my GitHub. This made it easier for us to use GitBash
+I learned how to use vs code when printing code and using it to push and commit something into my GitHub. This made it easier for us to use GitBash.
 # FancyLED
 ### Objective
 
