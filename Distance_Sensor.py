@@ -9,19 +9,19 @@ pixel_pin = board.NEOPIXEL
 num_pixels = 1
 pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.3)
 
-RED = (255, 0, 0)
-PURPLE = (180, 0, 255)
-BLUE = (0, 0, 255)
-CYAN = (0, 255, 255)
-GREEN = (0, 255, 0)
+RED = (255, 0, 0) #RGB code for Red
+PURPLE = (180, 0, 255)  #RGB code for Purple
+BLUE = (0, 0, 255) #RGB code for Blue
+CYAN = (0, 255, 255)#RGB code for Cyan
+GREEN = (0, 255, 0)#RGB code for Green
 
 while True:
     try:
         distance = sonar.distance
-        print((distance))
+        print((distance)) #shows distance in the serial monitor
 
         if distance > 0 and distance <= 7:
-            pixels.fill(RED)
+            pixels.fill(RED) # inbetween 0 and 7 it shows Red on the RGB
             pixels.show()
         if distance > 7 and distance <= 14:
             pixels.fill(PURPLE)

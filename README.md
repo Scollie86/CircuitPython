@@ -39,7 +39,7 @@ I learned how to change the colors and the code for different rgb colors. I lear
 ### Objective
 We dowloaded the Git Bash app and edited my ReadME.md.
 ### Lesson
-I learned how to use Git Bash and how to edit my readME.md through the 
+I learned how to use Git Bash and how to edit my readME.md through Git Bash.
 # Hello GitHub
 ### Objective
 We created a repository to put all of our assignments in.
@@ -47,14 +47,14 @@ We created a repository to put all of our assignments in.
 I learned a new way to edit my GitHub. I also found it very useful when starting to organize my assignments.
 # Forks and Clones
 ### Objective
-We forked the CHS Sigma account and made a copy for our own account.
+We forked the CHS Sigma account and made a copy for our own account so we can access it faster. 
 ### Lesson
 I learned how to get to other peoples repository. I learned how to fork repositories from the class and clone them.
 # Classes, Objects, and Modules
 ### Objective
-Made a library for the rgb LED in one tab while we had another one named main.py.
+We made a library for the rgb LED in one tab while we had another one named main.py.
 ### Lesson
-I learned how to make libraries on CircuitPython which is very useful to minimize your code. I also learned how wire RGB LED's.
+I learned how to make libraries on CircuitPython which is very useful to minimize your code. I also learned how to wire RGB LED's.
 ### Pictures
 ![GitHub Classes, Objects, and Modules](Media/classes.PNG)
 # Hello vs Code

@@ -1,5 +1,5 @@
 import time
- import board
+import board
 import pulseio
 
 
@@ -15,6 +15,6 @@ while True:
     if brightness <= 0:
         fade_amount = -fade_amount
         counter += 1
-    elif brightness >= 65535:
+    elif brightness >= 65535: #65525 is the brightest the LED will go
         fade_amount = -fade_amount
         counter += 1
