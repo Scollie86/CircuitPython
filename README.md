@@ -64,9 +64,8 @@ We learned how to print something in the serial monitor of vs code.
 I learned how to use vs code when printing code and using it to push and commit something into my GitHub. This made it easier for us to use GitBash.
 # FancyLED
 ### Objective
-
-### Code
-
+Make a class for blink, chase, and sparkle with six LEDs.
 ### Lesson
-
+I learned how to use blink, chase, and sparkle simultaneously on LEDs. This assignment also helped me learn when to use classes and helped me to make them. 
 ### Pictures
+![GitHub Fancy LED](Media/fancyled.png)
